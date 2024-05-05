@@ -1,0 +1,16 @@
+
+10 Interesting Use Cases for the K-Means Algorithm:
+
+my few takeaways from this article:
+
+According to the author:
+1) K-Means algorithm is relatively simple to use.
+2) "the aim is to  segregate groups with smilar traits and assign them into clusters,
+   the goal of the k-means algorithm is to find groups in the data, with the number of groups repressented by the variable k
+3) "cluster documents in multiple categories are based on tags, topics and content".
+4) clustering helps marketer improve their customer base and analyze customer history (interests, activity monitoring).
+5) ML can not only used for fraud detection in the insurance industry but also has numerous applications in automobile, healthcare industry.
+6) due to ML in the Uber ride dataset, a large amount of data around traffic, transit time , peak pickup can be obtained.
+
+
+Source: https://dzone.com/articles/10-interesting-use-cases-for-the-k-means-algorithm
